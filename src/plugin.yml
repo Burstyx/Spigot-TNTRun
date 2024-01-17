@@ -1,0 +1,10 @@
+  name: TNTRunPlugin
+  main: fr.itsbursty.tntrunplugin.Main
+  version: 1.0
+  author: ItsBursty
+  api-version: 1.8.8
+  commands:
+    launchgame:
+      description: Start/Stop the game countdown
+      usage: /<command>
+      aliases: tl
